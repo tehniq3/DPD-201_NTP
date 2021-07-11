@@ -16,8 +16,8 @@ SoftwareSerial lcd(255, DATAOUT);  // This is required, to start an instance of 
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
 
-const char *ssid     = "niq_ro";
-const char *password = "needcoldbeers";
+const char *ssid     = "bbk2";
+const char *password = "internet2";
 
 const long utcOffsetInSeconds = 3*3600;
 
