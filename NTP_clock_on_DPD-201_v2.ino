@@ -95,7 +95,7 @@ DST = EEPROM.read(adresa+1);
 DST0 = DST;
 
 if (DST == 0) oravara = "off"; 
-else oravara = "off"; 
+else oravara = "on"; 
 
 Serial.print("TimeZone: ");
 Serial.println(TIMEZONE);
