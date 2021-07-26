@@ -19,5 +19,6 @@ Info:
 ![winterweb](https://1.bp.blogspot.com/-rX-eQalf2ls/YOx2YKcC1lI/AAAAAAAAero/c-V9gbi3cnoJaD5Md1Ik-nPEKVN8ot5xwCLcBGAsYHQ/w200-h150/web_iarna.jpg)
 ![winterclock](https://1.bp.blogspot.com/-NXpWOOrTjJk/YOx28C_U_3I/AAAAAAAAer4/wUej9CpFX_UL4jFxWF476SlywiVKYT8rwCLcBGAsYHQ/w200-h150/ora_iarna_vfd.jpg)
 
+![schema2](https://1.bp.blogspot.com/-aiFIlEIGeXk/YP7w2RDLX3I/AAAAAAAAet4/05kP-dbK8GwVTwx_QW6nYlpfb7BRfCuPQCLcBGAsYHQ/s320/DPD-201_clock_ESP8266_DHT_schematic.png)
 ![web1](https://1.bp.blogspot.com/-SDjKrpNUy5c/YP8MmqLKIvI/AAAAAAAAevg/Rtm_gWqAkxMo73TnhQHeUMTPGQyQl3oBwCLcBGAsYHQ/w200-h150/wer4a_clock2.jpg)
 ![web2](https://1.bp.blogspot.com/-qQVehIRgqwY/YP8Mer6lKnI/AAAAAAAAevc/BoUxRgkNxc044zcwF6vB2ANRebI8_8GFQCLcBGAsYHQ/w200-h150/ver4a_clock1.jpg)
