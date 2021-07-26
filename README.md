@@ -7,7 +7,7 @@ Info:
 - https://nicuflorica.blogspot.com/2021/07/reglare-ora-varaiarna-de-pe-o-pagina.html
 - http://nicuflorica.blogspot.com/2021/07/ceas-ntp-cu-date-meteo-de-la-senzot.html
 
-![schematic](https://github.com/tehniq3/DPD-201_NTP/blob/main/poze/DPD_201_ESP8266_schematic.png)
+![schematic](https://1.bp.blogspot.com/-JX-v1S0UIQo/YOxtYwgrzVI/AAAAAAAAepc/hYFSdIn3rkYKw3d_PfoWhwLVSBL_byK6ACLcBGAsYHQ/w200-h156/DPD_201_ESP8266_schematic.png)
 
 ![generic](https://1.bp.blogspot.com/-KIjyscHn9Yg/YOx3mIwbagI/AAAAAAAAesE/C6-fb2UcEdMRZgV2xyIGdXNIKFiccZf0gCLcBGAsYHQ/w200-h150/niq_ro.jpg)
 ![ap](https://1.bp.blogspot.com/-UquDG2SwDZU/YOx0X4V3BYI/AAAAAAAAeqk/AEol9IZgnCUEMxO4Dnw16PKq7iXEjQbIwCLcBGAsYHQ/w200-h150/IP_192_168_4_1.jpg)
