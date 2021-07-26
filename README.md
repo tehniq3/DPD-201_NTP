@@ -5,6 +5,7 @@ Info:
 - https://nicuflorica.blogspot.com/2021/07/ceas-ntp-pe-afisaj-vfd-datecs-dpd-201.html
 - https://nicuflorica.blogspot.com/2021/07/afisaj-vfd-modul-datecs-dpd-201.html
 - https://nicuflorica.blogspot.com/2021/07/reglare-ora-varaiarna-de-pe-o-pagina.html
+- http://nicuflorica.blogspot.com/2021/07/ceas-ntp-cu-date-meteo-de-la-senzot.html
 
 ![schematic](https://github.com/tehniq3/DPD-201_NTP/blob/main/poze/DPD_201_ESP8266_schematic.png)
 
@@ -17,3 +18,6 @@ Info:
 
 ![winterweb](https://1.bp.blogspot.com/-rX-eQalf2ls/YOx2YKcC1lI/AAAAAAAAero/c-V9gbi3cnoJaD5Md1Ik-nPEKVN8ot5xwCLcBGAsYHQ/w200-h150/web_iarna.jpg)
 ![winterclock](https://1.bp.blogspot.com/-NXpWOOrTjJk/YOx28C_U_3I/AAAAAAAAer4/wUej9CpFX_UL4jFxWF476SlywiVKYT8rwCLcBGAsYHQ/w200-h150/ora_iarna_vfd.jpg)
+
+![web1](https://1.bp.blogspot.com/-SDjKrpNUy5c/YP8MmqLKIvI/AAAAAAAAevg/Rtm_gWqAkxMo73TnhQHeUMTPGQyQl3oBwCLcBGAsYHQ/w200-h150/wer4a_clock2.jpg)
+![web2](https://1.bp.blogspot.com/-qQVehIRgqwY/YP8Mer6lKnI/AAAAAAAAevc/BoUxRgkNxc044zcwF6vB2ANRebI8_8GFQCLcBGAsYHQ/w200-h150/ver4a_clock1.jpg)
